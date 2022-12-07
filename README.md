@@ -9,5 +9,7 @@
 
 <h2>Dei função e animação aos botões assistir e informações. Navegação as páginas de ínicio/Animes/Filmes/Live Actions criando páginas indepedentes de html para navegação mais ampla.</h2>
 
+<h3>Repositório exclusivo para deploy do site. REPOSITÓRIO ORIGINAL: https://github.com/Kadu1811/NetflixClone</h3>
+
 <h3>Html, Css, JQuery, Js</h3>
 
